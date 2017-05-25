@@ -1,5 +1,7 @@
 # Proyecto de medición de calidad del aire
 
+![AlhambraMakers](https://avatars3.githubusercontent.com/u/27811355?v=3&s=150)
+
 
 ## ¿Cuántas estaciones de medida de calidad del aire hay en Granada?
 
